@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prince
-- 👀 I’m interested in Met and Climate studd..
+- 👀 I’m interested in Met and Climate studies.
 - 🌱 I’m currently learning to code in python programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via mail at nanapoku574@gmail.com
